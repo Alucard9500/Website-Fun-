@@ -1,0 +1,67 @@
+#firstNumber {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+#secondNumber {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+#subOne {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+#subTwo {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+#mulOne {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+#mulTwo {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+#divOne {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+#divTwo {
+    width: 50px;
+    border-radius: 2em 2em 2em 2em;
+    height: 25px;
+}
+article {
+    border: solid;
+    border-width: thin;
+    border-style: double;
+    border-color: black;
+    box-shadow: 1px 1px 1px 0.5px;
+    margin-right: 75%;
+    padding-left: 15px;
+    background-color: white;
+    position: relative;
+}
+body {
+    background-color: turquoise;
+}    
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  border-radius: 2em 2em 2em 2em;
+}
+
